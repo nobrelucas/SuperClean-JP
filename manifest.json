@@ -1,0 +1,13 @@
+{
+  "name": "SuperClean JP - Higienização de Estofados",
+  "short_name": "SuperClean JP",
+  "description": "Higienização profissional de estofados em João Pessoa - PB",
+  "start_url": "/SuperClean-JP/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0e63c9",
+  "icons": [
+    { "src": "/SuperClean-JP/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/SuperClean-JP/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

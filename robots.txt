@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /SuperClean-JP/
+
+Sitemap: https://nobrelucas.github.io/SuperClean-JP/sitemap.xml
