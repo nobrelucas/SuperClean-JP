@@ -60,7 +60,7 @@ export default function BeforeAfterSlider() {
         {/* camada "depois" (fundo completo) */}
         <div className="absolute inset-0">
           <Image
-            src="/images/depois-1.jpeg"
+            src="/SuperClean-JP/images/depois-1.jpeg"
             alt="Estofado limpo - Depois"
             fill
             className="object-cover"
@@ -77,7 +77,7 @@ export default function BeforeAfterSlider() {
           style={{ width: `${percent}%` }}
         >
           <Image
-            src="/images/antes-1.jpeg"
+            src="/SuperClean-JP/images/antes-1.jpeg"
             alt="Estofado sujo - Antes"
             fill
             className="object-cover"
