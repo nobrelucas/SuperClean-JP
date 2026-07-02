@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2.5">
               <Image
-                src="/logo.png"
+                src="/SuperClean-JP/logo.png"
                 alt="Super Clean JP"
                 width={44}
                 height={44}

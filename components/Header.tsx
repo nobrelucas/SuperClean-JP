@@ -30,7 +30,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-3 sm:px-8">
         <Link href="#topo" className="flex items-center gap-2.5">
           <Image
-            src="/logo-supercleanjp.png"
+            src="/SuperClean-JP/logo-supercleanjp.png"
             alt="Super Clean JP - Higienização Profissional de Estofados"
             width={48}
             height={48}
