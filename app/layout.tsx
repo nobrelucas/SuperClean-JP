@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     ],
     apple: [{ url: "/icon-180.png", sizes: "180x180", type: "image/png" }],
   },
-  manifest: "/manifest.webmanifest",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
